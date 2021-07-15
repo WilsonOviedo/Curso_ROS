@@ -1,0 +1,8 @@
+#Goal
+int32 number_of_cars
+---
+#Result
+int32 total_cars_cleanes
+---
+#Feedback
+float32 percent_cars_complete
